@@ -1,0 +1,9 @@
+TITLE: Retinal OCT Images (optical coherence tomography)
+
+Data Source: https://www.kaggle.com/datasets/paultimothymooney/kermany2018
+
+For additional information: see http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
+Description:
+	In this dataset, we classify the choroidal neovascularization (CNV),
+Diabetic macular edema (DME), BRUSEN, NORMAL images.
